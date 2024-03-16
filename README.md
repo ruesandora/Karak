@@ -38,7 +38,8 @@ contract HelloWorld {
 
 #
 
-> Mestamak'ta Karak Ağı ekli değilse [buradan](https://chainlist.org/?search=2410&testnets=true)  ekliyoruz.
+> Mestamak'ta Karak Ağı ekli değilse [buradan](https://chainlist.org/?search=2410&testnets=true) ekliyoruz.
+> 
 > `Deploy & Run` kısmından `Enviroment` için `Metamaskı` seçip deployluyoruz.
 
 <img width="366" alt="Ekran Resmi 2024-03-08 10 04 19" src="https://github.com/ruesandora/Karak/assets/101149671/ca619a8b-16a4-4129-9220-1f9770bbd3b5">
