@@ -10,7 +10,7 @@
 
 ## Deploya başlayalım.
 
-> [Buraya](https://remix.ethereum.org/) gidiyoruz
+> [Buraya](https://remix.ethereum.org/) gidiyoruz.
 
 > Yeni bir fiile oluşturup ismini `karak.sol` yapıyoruz.
 
@@ -32,13 +32,14 @@ contract HelloWorld {
 
 #
 
-> Solidty Compiler kısmından commit version `0.8.13` seçiyoruz ve compile ediyoruz
+> Solidty Compiler kısmından commit version `0.8.13` seçiyoruz ve compile ediyoruz.
 
 <img width="365" alt="Ekran Resmi 2024-03-08 10 02 35" src="https://github.com/ruesandora/Karak/assets/101149671/a49ffeff-d342-4bc1-944c-1c6b842b12bb">
 
 #
 
-> `Deploy & Run` kısmından `Enviroment` için `Metamaskı` seçip deployluyoruz
+> Mestamak'ta Karak Ağı ekli değilse [buradan](https://chainlist.org/?search=2410&testnets=true)  ekliyoruz.
+> `Deploy & Run` kısmından `Enviroment` için `Metamaskı` seçip deployluyoruz.
 
 <img width="366" alt="Ekran Resmi 2024-03-08 10 04 19" src="https://github.com/ruesandora/Karak/assets/101149671/ca619a8b-16a4-4129-9220-1f9770bbd3b5">
 
